@@ -5,7 +5,15 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. FRAMEWORKS Y DRIVERS", "4. FRAMEWORKS Y DRIVERS", "{CCA1FA34-ACE1-4625-8FD6-AC3336746E49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuri.WorkerService.SendSMS", "Yuri.WorkerService.SendSMS\Yuri.WorkerService.SendSMS.csproj", "{EDF57EA2-CF20-4BDC-ABB2-20650A3B4B11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yuri.WorkerService.SendSMS", "Yuri.WorkerService.SendSMS\Yuri.WorkerService.SendSMS.csproj", "{EDF57EA2-CF20-4BDC-ABB2-20650A3B4B11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. REGLAS DEL NEGOCIO", "1. REGLAS DEL NEGOCIO", "{407464B5-BFB2-4FF6-9F3E-B1800023CBB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. REGLAS DEL NEGOCIO DE APLICACION", "2. REGLAS DEL NEGOCIO DE APLICACION", "{89171122-2B4C-4D31-B0F3-B82FD868CDF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. TRANSVERSAL", "6. TRANSVERSAL", "{94F5DA00-5D58-466D-9C35-8CD8AC6116D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuri.Background.Transversal.Common", "Yuri.Background.Transversal.Common\Yuri.Background.Transversal.Common.csproj", "{B6C29902-4E4C-4AF9-99F5-0D0B515D7C03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +25,17 @@ Global
 		{EDF57EA2-CF20-4BDC-ABB2-20650A3B4B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDF57EA2-CF20-4BDC-ABB2-20650A3B4B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDF57EA2-CF20-4BDC-ABB2-20650A3B4B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C29902-4E4C-4AF9-99F5-0D0B515D7C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C29902-4E4C-4AF9-99F5-0D0B515D7C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C29902-4E4C-4AF9-99F5-0D0B515D7C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C29902-4E4C-4AF9-99F5-0D0B515D7C03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EDF57EA2-CF20-4BDC-ABB2-20650A3B4B11} = {CCA1FA34-ACE1-4625-8FD6-AC3336746E49}
+		{B6C29902-4E4C-4AF9-99F5-0D0B515D7C03} = {94F5DA00-5D58-466D-9C35-8CD8AC6116D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A04DA769-BE48-4E7E-8BE1-EE7F455DC94B}

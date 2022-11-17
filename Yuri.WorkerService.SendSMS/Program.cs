@@ -1,10 +1,14 @@
+using Microsoft.Extensions.Configuration;
+using Yuri.Background.Transversal.Common;
 using Yuri.WorkerService.SendSMS;
+using Yuri.WorkerService.SendSMS.Settings;
 
 IHost host = Host.CreateDefaultBuilder(args)
-    .ConfigureServices(services =>
+    .ConfigureServices((hostContext, services) =>
     {
-        services.AddHostedService<Worker>();
+        IConfiguration configuration = hostContext.Configuration;
+        services.Configure<WorkerSetting>(configuration.GetSection(nameof(WorkerSetting)));
+        services.AddHostedService<Worker>().AddSingleton<ISenderSMS, SenderSMS>();
     })
     .Build();
-
 await host.RunAsync();

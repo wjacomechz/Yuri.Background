@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\bin\Debug\net6.0\Yuri.Background.Transversal.Common.deps.json
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\bin\Debug\net6.0\Yuri.Background.Transversal.Common.dll
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\bin\Debug\net6.0\Yuri.Background.Transversal.Common.pdb
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\obj\Debug\net6.0\Yuri.Background.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\obj\Debug\net6.0\Yuri.Background.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\obj\Debug\net6.0\Yuri.Background.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\obj\Debug\net6.0\Yuri.Background.Transversal.Common.AssemblyInfo.cs
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\obj\Debug\net6.0\Yuri.Background.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\obj\Debug\net6.0\Yuri.Background.Transversal.Common.dll
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\obj\Debug\net6.0\refint\Yuri.Background.Transversal.Common.dll
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\obj\Debug\net6.0\Yuri.Background.Transversal.Common.pdb
+C:\Users\HP\source\repos\Yuri.Background\Yuri.Background.Transversal.Common\obj\Debug\net6.0\ref\Yuri.Background.Transversal.Common.dll
